@@ -4,13 +4,11 @@ A recruiter-focused, responsive portfolio built with plain HTML, CSS and JavaScr
 
 ## Replace before publishing
 Search for these placeholders in `index.html`:
-- `YOUR_EMAIL`
-- `YOUR_PHONE`
-- `YOUR_LINKEDIN_URL`
-- `YOUR_GITHUB_URL`
-- `YOUR_LUCKY_HOME_DECOR_URL`
-
-Then open `index.html` locally or deploy the folder to Vercel, Netlify, GitHub Pages, or any static host.
+- `praveenkumargs901@gmail.com`
+- `+91 9036723466`
+- `https://www.linkedin.com/in/praveen-kumargs/`
+- `[YOUR_GITHUB_URL](https://github.com/Praveenkumargs)`
+- `[YOUR_LUCKY_HOME_DECOR_URL](https://home-decor-website-lime.vercel.app/)`
 
 ## Sections
 - Hero / professional introduction
@@ -18,4 +16,3 @@ Then open `index.html` locally or deploy the folder to Vercel, Netlify, GitHub P
 - Selected projects
 - Recruiter-oriented proof points
 - Contact section with email, phone, LinkedIn and GitHub
-# UpdatedPortfolio
